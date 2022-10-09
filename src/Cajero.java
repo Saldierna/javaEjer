@@ -10,7 +10,7 @@ public class Cajero {
     public static String menu = "¿Que deseas realizar?\n\n" +
             "    1.- Realizar un retiro.\n" +
             "    2.- Revisar saldo.\n" +
-            "    3.- Ultimo Movimiento CAMBIO DESDE DEVELOP A QA Y LUEGO A MASTER\n" +
+            "    3.- Ultimo Movimiento CAMBIO DESDE QA Y LUEGO A MASTER\n" +
             "    4.- Salirrrr.\n";
 
 
